@@ -3,9 +3,9 @@
 ## Table of Contents
 
 - [Dataset](#Dataset)
-- [Models](#Classification_models)
+- [Models](#Classification-models)
 - [Results](#Results)
-- [Mobile application](#Mobile_application)
+- [Mobile application](#Mobile-application)
 
 ## Dataset
 Created custom dataset of 9 classes of knots: 
