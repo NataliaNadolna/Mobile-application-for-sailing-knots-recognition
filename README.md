@@ -5,7 +5,7 @@
 - [Dataset](#Dataset)
 - [Models](#Classification-models)
 - [Research](#Research)
-%- [Results](#Results)
+<!-- - [Results](#Results)-->
 - [Mobile application](#Mobile-application)
 
 ## Dataset
