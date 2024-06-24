@@ -5,7 +5,7 @@
 - [Dataset](#Dataset)
 - [Models](#Classification-models)
 - [Research](#Research)
-- [Results](#Results)
+%- [Results](#Results)
 - [Mobile application](#Mobile-application)
 
 ## Dataset
@@ -160,10 +160,17 @@ Compared:
         - color;
         - gray;
     - advanced:
-      - DCGAN
-
-## Results
-
+      - DCGAN (about 50 generated images per class).
 
 ## Mobile application
+The best model was implemented in mobile application for sailing knots recognition.
+- Intro activity:
+  ![](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/intro.jpg)
+- Recognition activity:
+  ![](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/recognition.jpg)
+- List activity:
+  ![](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/list_of_knots.jpg)
+- Knot activity:
+  ![](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/detail_of_knot.jpg)
+
 
