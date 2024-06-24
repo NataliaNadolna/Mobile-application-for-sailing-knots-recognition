@@ -4,6 +4,7 @@
 
 - [Dataset](#Dataset)
 - [Models](#Classification-models)
+- [Research](#Research)
 - [Results](#Results)
 - [Mobile application](#Mobile-application)
 
@@ -145,6 +146,21 @@ Params size (MB): 11.27
 Estimated Total Size (MB): 923.27
 ========================================================================================================================
 ```
+## Research
+Compared:
+- hiperparameters
+    - epochs: 5, 10, 15, 20
+    - batch size: 16, 32, 64
+    - learning rate: 0.0001, 0.0005, 0.001
+- Transfer Learning
+- augmentation
+    - traditional:
+        - reflection;
+        - blur;
+        - color;
+        - gray;
+    - advanced:
+      - DCGAN
 
 ## Results
 
