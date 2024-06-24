@@ -165,12 +165,15 @@ Compared:
 ## Mobile application
 The best model was implemented in mobile application for sailing knots recognition.
 - Intro activity:
-  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/intro.jpg" width="200">
+
+<img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/intro.jpg" width="200">
 - Recognition activity:
-  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/recognition.jpg" width="200">
+<img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/recognition.jpg" width="200">
+
 - List activity:
-  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/list_of_knots.jpg" width="200">
+<img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/list_of_knots.jpg" width="200">
+
 - Knot activity:
-  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/detail_of_knot.jpg" width="200">
+<img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/detail_of_knot.jpg" width="200">
 
 
