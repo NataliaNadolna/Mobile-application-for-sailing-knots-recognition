@@ -169,8 +169,8 @@ The best model was implemented in mobile application for sailing knots recogniti
 - Recognition activity:
   <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/recognition.jpg" width="200">
 - List activity:
-  <img src="[Assets/icon.png](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/list_of_knots.jpg)" width="200">
+  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/list_of_knots.jpg" width="200">
 - Knot activity:
-  <img src="[Assets/icon.png](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/detail_of_knot.jpg)" width="200">
+  <img src="https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition/blob/main/app/screenshots/detail_of_knot.jpg" width="200">
 
 
